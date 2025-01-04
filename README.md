@@ -52,8 +52,8 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<!--<div align="center">
+<!--<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
@@ -63,7 +63,15 @@
   </a>
 </div>-->
 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlalfdmlghk1&layout=compact)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100wnsdragon)
+-->
+
+<h3 align="center"> 🧵 More About 🧵</h3>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlalfdmlghk1&layout=compact)
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100wnsdragon)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlalfdmlghk1&layout=compact" alt="Top Langs" style="margin-right: 20px;">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=100wnsdragon" alt="Solved.ac Profile" style="margin-left: 20px;">
 </div>
+
+
