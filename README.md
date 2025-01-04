@@ -63,5 +63,7 @@
   </a>
 </div>-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlalfdmlghk1&layout=compact)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100wnsdragon)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlalfdmlghk1&layout=compact)
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100wnsdragon)
+</div>
