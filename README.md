@@ -75,7 +75,7 @@
 </div>
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" align="center">
   <img
     src="https://render.gitanimals.org/lines/qlalfdmlghk1"
     width="600"
@@ -83,7 +83,7 @@
   />
 </a>
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" align="center">
 <img
   src="https://render.gitanimals.org/farms/qlalfdmlghk1"
   width="600"
