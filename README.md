@@ -3,7 +3,7 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20My%20Github!&fontSize=50&fontColor=auto&reversal=true&animation=twinkling)
 
-<!--내용 부분--> 
+<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
