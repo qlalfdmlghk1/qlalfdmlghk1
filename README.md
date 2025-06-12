@@ -64,7 +64,7 @@
 </div>-->
 
 
-<h3 align="center"> 🧵 More About 🧵</h3>
+<h3 align="center"> 🏅 Algorithm </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlalfdmlghk1&layout=compact" alt="Top Langs" style="margin-right: 20px;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=100wnsdragon" alt="Solved.ac Profile" style="margin-left: 20px;">
