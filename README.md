@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20My%20Github!&fontSize=50&fontColor=auto&reversal=true&animation=twinkling)
 
